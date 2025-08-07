@@ -1,6 +1,7 @@
 #include "binary_trees.h"
 #include <stdio.h>
 #include <stdlib.h>
+#include "9-binary_tree_height.c"
 
 /**
  * binary_tree_balance - measures the balance factor of a binary tree
